@@ -1,0 +1,4 @@
+cd .\vite-project\
+npm run dev
+
+node seed.mjs
